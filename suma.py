@@ -5,7 +5,7 @@
 operaciones = ['resta', 'suma']
 
 
-class suma:
+class suma(webapp.app):
 
     def parse(self, peticion, rest):
 

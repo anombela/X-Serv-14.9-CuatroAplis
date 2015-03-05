@@ -12,9 +12,6 @@ jgb @ gsyc.es
 TSAI, SAT and SARO subjects (Universidad Rey Juan Carlos)
 October 2009, February 2015
 """
-import hola
-import suma
-import aleat
 import socket
 
 
